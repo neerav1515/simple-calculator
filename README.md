@@ -1,1 +1,2 @@
-# simple-calculator use of HTML ,CSS and Javascript(jquery) with minimum amount of codelines !!
+
+# simple-calculator use of HTML ,CSS and Javascript() with minimum amount of codelines !!
